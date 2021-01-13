@@ -1,0 +1,35 @@
+
+
+
+
+.box {
+	width: 302px;
+	margin: 130px auto;
+}
+
+#start{
+	float: left;
+	width: 50%;
+	height: 35px;
+    outline:none;
+	line-height: 33px;
+	border: 1px solid #ccc;
+	background-color: #ffff;
+}
+
+#stop {
+	float: right;
+	width: 50%;
+	height: 35px;
+	outline:none;
+	line-height: 33px;
+	border: 1px solid #ccc;
+	border-left: none;
+	background-color: #ffff;
+}
+
+#player {
+	outline:none;
+	border: 1px solid #ccc;
+	background-color: #F1F3F4;
+}
